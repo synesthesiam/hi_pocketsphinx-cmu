@@ -1,0 +1,7 @@
+language:
+  name: "hindi"
+  code: "hi"
+
+text-to-speech:
+  espeak:
+    voice: "hi"
