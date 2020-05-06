@@ -1,3 +1,7 @@
+---
+name: "hi_pocketsphinx-cmu"
+version: "1.0"
+
 language:
   name: "hindi"
   code: "hi"
